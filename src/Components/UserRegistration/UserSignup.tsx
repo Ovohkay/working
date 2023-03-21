@@ -9,7 +9,7 @@ const UserSignup = () => {
     <Container>
       <Wrapper>
         <InputPart>
-          <IconTop to="/optinsignup">
+          <IconTop to="/optionsignup">
             <FiArrowLeftCircle />
           </IconTop>
           <SignInputHold>

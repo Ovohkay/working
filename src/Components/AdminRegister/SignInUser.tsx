@@ -10,11 +10,11 @@ const SignIn = () => {
     <Container>
       <Wrapper>
         <InputPart>
-          <IconTop to="/">
+          <IconTop to="/optionsignin">
             <FiArrowLeftCircle />
           </IconTop>
           <SignInputHold>
-            <SignTitle>Sign In</SignTitle>
+            <SignTitle>Log In</SignTitle>
             <SignSubTitle>To Intract with your account</SignSubTitle>
             <InputForm>
               <InputDiv placeholder="Email" type="email" />
